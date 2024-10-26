@@ -1,0 +1,11 @@
+# Web automation
+selenium>=4.15.0
+msedge-selenium-tools>=3.141.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Utility packages
+requests>=2.31.0
+python-dotenv>=1.0.0
+logging>=0.4.9.6
